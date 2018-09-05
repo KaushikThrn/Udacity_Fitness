@@ -58,7 +58,7 @@ export function getMetricMetaInfo (metric) {
           <View>
             <MaterialIcons
               name='directions-run'
-              color={white}
+              color={'black'}
               size={35}
             />
           </View>
@@ -94,7 +94,7 @@ export function getMetricMetaInfo (metric) {
           <View>
             <MaterialCommunityIcons
               name='swim'
-              color={white}
+              color={'black'}
               size={35}
             />
           </View>
@@ -112,7 +112,7 @@ export function getMetricMetaInfo (metric) {
           <View>
             <FontAwesome
               name='bed'
-              color={white}
+              color={'black'}
               size={30}
             />
           </View>
@@ -130,7 +130,7 @@ export function getMetricMetaInfo (metric) {
           <View>
             <MaterialCommunityIcons
               name='food'
-              color={white}
+              color={'black'}
               size={35}
             />
           </View>
